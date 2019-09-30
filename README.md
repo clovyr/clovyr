@@ -1,6 +1,6 @@
 # Clovyr
 
-Watch this repo's releases for notifications about new libraries and major releases.
+[Watch](https://github.com/clovyr/clovyr/subscription) this repo's releases for notifications about new libraries and major releases.
 
 ## Libraries
 
